@@ -1,5 +1,3 @@
-测试代码
-
 AppTest.java
 package ch5.test;
 import ch5.data.*;
